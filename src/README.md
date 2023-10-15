@@ -5,3 +5,10 @@ Solicita os dados do cliente pelo terminal e imprime, uma mensagem de saudação
 Recebe dois numeros inteiros pelo terminal: se o primeiro numero for menor que o segundo, subtrai o primeiro numero do segundo e o resultado, faz uma iteração de um até o valor do numero obtido na subtração.
 Senão, lança uma exceção informando que não será possivel fazer a iteração.
 
+## Equilibrando saldo.
+
+Ao informar o valor de saldo e solicitar o valor de depósito  e o valor de saque, mostra o valor de saldo restante.
+
+
+
+
