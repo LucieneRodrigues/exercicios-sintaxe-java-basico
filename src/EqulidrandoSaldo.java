@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class EquilidrandoSaldo {
+public class EquilibrandoSaldo {
 	
 	
 	   public static void main(String[] args) {
